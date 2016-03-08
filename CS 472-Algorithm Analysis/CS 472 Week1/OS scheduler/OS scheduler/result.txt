@@ -1,0 +1,750 @@
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:0
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:0
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:0
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:1
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:1
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:1
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:2
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:2
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:4
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:4
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:5
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:5
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:6
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:6
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:7
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:8
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:8
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:8
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:8
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:9
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:9
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:9
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:10
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:10
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:12
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:12
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:12
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:12
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:13
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:5
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:5
+The number of processes in Q4 is:14
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:5
+The number of processes in Q4 is:15
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:5
+The number of processes in Q4 is:16
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:17
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:18
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:18
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:4
+The number of processes in Q4 is:19
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:20
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:20
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:21
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:22
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:23
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:23
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:24
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:3
+The number of processes in Q4 is:24
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:25
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:26
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:27
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:28
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:29
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:29
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:29
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:30
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:32
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:33
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:34
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:35
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:36
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:36
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:36
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:37
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:38
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:39
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:39
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:40
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:41
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:42
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:43
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:43
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:43
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:44
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:44
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:45
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:46
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:46
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:46
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:48
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:48
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:49
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:1
+The number of processes in Q3 is:0
+The number of processes in Q4 is:49
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:50
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:51
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:51
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:52
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:53
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:53
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:54
+
+The number of processes in Q1 is:1
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:54
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:55
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:55
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:56
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:56
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:57
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:57
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:2
+The number of processes in Q4 is:58
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:59
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:60
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:60
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:1
+The number of processes in Q4 is:62
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:64
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:64
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:65
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:66
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:67
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:67
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:68
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:68
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:69
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:69
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:70
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:71
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:71
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:72
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:72
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:72
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:73
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:74
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:74
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:75
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:75
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:77
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:78
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:79
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:80
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:82
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:84
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:84
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:85
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:85
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:86
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:87
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:88
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:89
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:89
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:90
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:92
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:93
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:93
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:94
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:94
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:94
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:95
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:95
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:96
+
+The number of processes in Q1 is:0
+The number of processes in Q2 is:0
+The number of processes in Q3 is:0
+The number of processes in Q4 is:96
+

@@ -1,0 +1,51 @@
+﻿  OS scheduler.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week1\os scheduler\os scheduler\os scheduler.cpp(157): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week1\os scheduler\os scheduler\os scheduler.cpp(195): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(600): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(723) : see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,double>(_Objty *,double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+  ,            _Objty=scheduler::qLevel
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(723) : see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,double>(_Objty *,double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+  ,            _Objty=scheduler::qLevel
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(872) : see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,double>(std::allocator<_Ty> &,_Objty *,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<scheduler::qLevel>
+  ,            _Ty=scheduler::qLevel
+  ,            _Objty=scheduler::qLevel
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(872) : see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,double>(std::allocator<_Ty> &,_Objty *,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<scheduler::qLevel>
+  ,            _Ty=scheduler::qLevel
+  ,            _Objty=scheduler::qLevel
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\vector(899) : see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<scheduler::qLevel,double>(_Ty *,double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\vector(899) : see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<scheduler::qLevel,double>(_Ty *,double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week1\os scheduler\os scheduler\os scheduler.cpp(104) : see reference to function template instantiation 'void std::vector<scheduler::qLevel,std::allocator<_Ty>>::emplace_back<double>(double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week1\os scheduler\os scheduler\os scheduler.cpp(104) : see reference to function template instantiation 'void std::vector<scheduler::qLevel,std::allocator<_Ty>>::emplace_back<double>(double &&)' being compiled
+          with
+          [
+              _Ty=scheduler::qLevel
+          ]
+  OS scheduler.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 472\CS 472 Week1\OS scheduler\Debug\OS scheduler.exe
