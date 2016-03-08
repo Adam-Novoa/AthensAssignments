@@ -1,0 +1,10 @@
+﻿  KWIC.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(134): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(150): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(163): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 472\cs 472 week3\kwic\kwic\kwic.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+  KWIC.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 472\CS 472 Week3\KWIC\Debug\KWIC.exe

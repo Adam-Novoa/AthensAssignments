@@ -1,0 +1,115 @@
+﻿  Graph.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(329) : while compiling class template member function 'std::vector<type,std::allocator<_Ty>> dGraph<type>::neighbors(type)'
+          with
+          [
+              type=int
+  ,            _Ty=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(529) : see reference to function template instantiation 'std::vector<type,std::allocator<_Ty>> dGraph<type>::neighbors(type)' being compiled
+          with
+          [
+              type=int
+  ,            _Ty=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(517) : see reference to class template instantiation 'dGraph<int>' being compiled
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(341): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(370): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(369) : while compiling class template member function 'void dGraph<int>::deleteNode(type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(563) : see reference to function template instantiation 'void dGraph<int>::deleteNode(type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(387): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(384) : while compiling class template member function 'void dGraph<int>::addEdge(type,type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(522) : see reference to function template instantiation 'void dGraph<int>::addEdge(type,type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(431): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(428) : while compiling class template member function 'void dGraph<int>::deleteEdge(type,type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(551) : see reference to function template instantiation 'void dGraph<int>::deleteEdge(type,type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(58) : while compiling class template member function 'std::vector<type,std::allocator<_Ty>> uGraph<type>::neighbors(type)'
+          with
+          [
+              type=int
+  ,            _Ty=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(582) : see reference to function template instantiation 'std::vector<type,std::allocator<_Ty>> uGraph<type>::neighbors(type)' being compiled
+          with
+          [
+              type=int
+  ,            _Ty=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(570) : see reference to class template instantiation 'uGraph<int>' being compiled
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(95): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(94) : while compiling class template member function 'void uGraph<int>::deleteNode(type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(622) : see reference to function template instantiation 'void uGraph<int>::deleteNode(type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(109) : while compiling class template member function 'void uGraph<int>::addEdge(type,type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(575) : see reference to function template instantiation 'void uGraph<int>::addEdge(type,type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(155) : while compiling class template member function 'void uGraph<int>::deleteEdge(type,type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(610) : see reference to function template instantiation 'void uGraph<int>::deleteEdge(type,type)' being compiled
+          with
+          [
+              type=int
+          ]
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(189) : while compiling class template member function 'void uGraph<int>::DFS(void)'
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(605) : see reference to function template instantiation 'void uGraph<int>::DFS(void)' being compiled
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(205) : while compiling class template member function 'void uGraph<int>::runDFS(int,uGraph<int>::VertexState [])'
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(197) : see reference to function template instantiation 'void uGraph<int>::runDFS(int,uGraph<int>::VertexState [])' being compiled
+c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(34) : while compiling class template member function 'bool uGraph<int>::adjacent(type,type)'
+          with
+          [
+              type=int
+          ]
+          c:\users\internet\documents\visual studio 2013\projects\cs 417\cs 417 week4\graph\graph\graph.cpp(211) : see reference to function template instantiation 'bool uGraph<int>::adjacent(type,type)' being compiled
+          with
+          [
+              type=int
+          ]
+  Graph.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 417\CS 417 Week4\Graph\Debug\Graph.exe

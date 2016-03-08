@@ -1,0 +1,9 @@
+125, Ider, Hornets, Rednecks, 5, 5, 5
+100, Fyffe, Devils, StarWarriors, 8, 2, 8
+112, Pisgah, Eagles, RubberThumpers, 9, 1, 9
+131, Detroit, Lions, NFL, 3, 7, 3
+164, Alabama, Elephants, Champions, 10, 0, 10
+126, HomeSchool, Snails, Mars, 6, 4, 6
+106, Madison, Mustangs, Naboo, 4, 6, 4
+199, EastLimestone, Indians, Tuchanka, 7, 3, 7
+187, Cherokee, Monkeys, Chocolate, 1, 9, 1
