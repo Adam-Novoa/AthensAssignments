@@ -1,0 +1,5 @@
+﻿  Interpreter.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 414\week 01\interpreter\interpreter\interpreter.cpp(52): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+c:\users\internet\documents\visual studio 2013\projects\cs 414\week 01\interpreter\interpreter\interpreter.cpp(115): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+c:\users\internet\documents\visual studio 2013\projects\cs 414\week 01\interpreter\interpreter\interpreter.cpp(143): warning C4244: '=' : conversion from 'double' to '__int64', possible loss of data
+  Interpreter.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 414\Week 01\Interpreter\Debug\Interpreter.exe

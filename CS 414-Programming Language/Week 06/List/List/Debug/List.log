@@ -1,0 +1,4 @@
+﻿  List.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 414\week 06\list\list\list.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+c:\users\internet\documents\visual studio 2013\projects\cs 414\week 06\list\list\list.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+  List.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 414\Week 06\List\Debug\List.exe
