@@ -1,0 +1,3 @@
+﻿  throttle.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 372 week 3\throttle\throttle\throttle.cpp(70): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  Throttle.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 372 Week 3\Throttle\Debug\Throttle.exe

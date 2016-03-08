@@ -1,0 +1,4 @@
+﻿  inPostFix.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 372 week 9\inpostfix\inpostfix\inpostfix.cpp(215): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\internet\documents\visual studio 2013\projects\cs 372 week 9\inpostfix\inpostfix\inpostfix.cpp(218): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  inPostFix.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 372 Week 9\inPostFix\Debug\inPostFix.exe

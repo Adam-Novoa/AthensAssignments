@@ -1,0 +1,3 @@
+﻿  throttle.cpp
+c:\users\internet\documents\visual studio 2013\projects\cs 372 week1\throttle\throttle\throttle.cpp(57): warning C4800: 'double' : forcing value to bool 'true' or 'false' (performance warning)
+  throttle.vcxproj -> C:\Users\internet\Documents\Visual Studio 2013\Projects\CS 372 Week1\throttle\Debug\throttle.exe
