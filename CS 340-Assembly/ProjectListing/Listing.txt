@@ -1,0 +1,24 @@
+Welcome to Pie-In-The-Sky Shopping Experience!
+All you have to do to shop with us is enter the
+amount of the item you want in the field next to it!
+Our handy robot employees with fetch the items for 
+you and deliver them quickly so you do not have to wait!
+To end your experience, place any amount in the 'ALL DONE' field!
+
+				Sub Total
+__ Paper 8x11		12.19	  __
+__ Pk Pencil	  	1.59	  __
+__ Address Book		3.50	  __
+__ Pk Pens		2.59	  __
+__ Stapler		12.00	  __
+__ 3 Ring Binder	4.75	  __
+__ Staples		2.25	  __
+__ Paper Clips		1.50	  __
+__ Gum Labels		14.40	  __
+__ Tissues		2.79	  __
+__ Postits		3.20	  __
+__ Markers		9.95	  __
+__ Erasers		.16	  __
+__ Scissors		2.75	  __
+__ ALL DONE (Exit)
+	         Your Bill 	XXX.XX
